@@ -4,18 +4,15 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <a href="https://www.linkedin.com/in/nassim-j-678b79207/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="jedai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
 
-hi, i'm [Nassim Jedai], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I am Nassim Jedai, a Front-End developer passionate about user experience and user interface. I am also passionate about web 3 technologies. I am driven by my passion to participate in innovative projects, with the goal of continuously learning and improving my skills. I place great importance on designing aesthetic and intuitive user interfaces, and I work diligently to ensure that each project I work on meets the needs of end users. As a Front-End developer, I am able to create responsive user interfaces, using the latest web design technologies and trends. My ability to work closely with design and backend development teams ensures a smooth and consistent user experience.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  
-- 💼 any freelance work? do reach, [email](mailto:jedainassim@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 If you have any questions, please do not hesitate to send me an [email](mailto:jedainassim@gmail.com). I will be happy to assist you in any way possible.;
 
 
 **languages and tools:**  

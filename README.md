@@ -8,6 +8,7 @@
 </a>
 
 <br />
+<br />
 
 I am Nassim Jedai, a Front-End developer passionate about user experience and user interface. I am also passionate about web 3 technologies. I am driven by my passion to participate in innovative projects, with the goal of continuously learning and improving my skills. I place great importance on designing aesthetic and intuitive user interfaces, and I work diligently to ensure that each project I work on meets the needs of end users. As a Front-End developer, I am able to create responsive user interfaces, using the latest web design technologies and trends. My ability to work closely with design and backend development teams ensures a smooth and consistent user experience.
 
